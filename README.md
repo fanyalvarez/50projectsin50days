@@ -1,6 +1,6 @@
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
 
-|  #  | Project                                   | Live Demo                                                                         |                                                                      |
+|  #  | Project                                   | Live Demo                                                                         |                                                                     
 | :-: | ----------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards]                         | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
 | 02  | [Progress Steps]                          | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
