@@ -5,7 +5,7 @@ https://fanyalvarez.github.io/50projectsin50days/
 
 |  #  | Project                                 | Live Demo                                                                        |                                                                     
 | :-: | ----------------------------------------| -------------------------------------------------------------------------------  |
-| 01  | Expanding Cards                         | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day01)              |
+| 01  | Expanding Cards                         | [Live Demo]              |
 | 02  | Progress Steps                          | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day02)              |
 | 03  | Rotating Navigation Animation           | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day03)              |
 | 04  | Hidden Search Widget                    | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day04)              |
