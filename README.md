@@ -1,6 +1,6 @@
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
 
-https://fanyalvarez.github.io/50projectsin50days/
+https://50projectsin50days.vercel.app/
 
 
 |  #  | Project                                 | Live Demo                                                                        |                                                                     
