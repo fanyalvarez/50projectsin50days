@@ -3,9 +3,8 @@
 }
 
 body {
-  background-image: linear-gradient(90deg, #7d5fff, #715be2);
+  background-image: linear-gradient(90deg, #5fe7ff, #5baae2);
   display: flex;
-  /* flex-direction: column; */
   align-items: center;
   justify-content: center;
   height: 100vh;
@@ -16,18 +15,16 @@ body {
 .search {
   position: relative;
   height: 50px;
-  
 }
 
 .search .input {
-  background-color: #fff;
+  background-color: transparent;
   border: 0;
   font-size: 18px;
   padding: 15px;
   height: 50px;
   width: 50px;
   transition: width 0.3s ease;
-  border-radius: 10px;
 }
 
 .btn {
@@ -41,8 +38,7 @@ body {
   height: 50px;
   width: 50px;
   transition: transform 0.3s ease;
-  border-radius: 10px;
-
+  border-radius: 50px;
 }
 
 .btn:focus,
@@ -52,8 +48,11 @@ body {
 
 .search.active .input {
   width: 200px;
+  background-color: #fff;
+  border-radius: 10px 0 0 10px;
 }
 
 .search.search.active .btn {
   transform: translateX(198px);
+  border-radius: 0px 10px 10px 0px;
 }
