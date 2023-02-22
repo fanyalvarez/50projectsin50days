@@ -1,11 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Merienda:wght@300&display=swap");
 * {
   box-sizing: border-box;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Merienda", sans-serif;
 }
 
 html,
 body {
-  background-image: linear-gradient(90deg, #deeaed, #d2d7d9);
+  background-image: linear-gradient(90deg, #b0c7cc, #84adbd);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -14,6 +15,12 @@ body {
 html nav,
 body nav {
   text-align: center;
+}
+
+h1,
+h2 {
+  margin: 0;
+  font-size: 30px;
 }
 
 .wrapper {
@@ -31,7 +38,7 @@ body nav {
   display: flex;
   box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.5);
   transition: 0.5s ease-in-out;
-  margin: 5px 10px;
+  margin: 10px 10px;
 }
 .wrapper .card:hover {
   transform: translateY(5px);
@@ -69,7 +76,7 @@ body nav {
 }
 .wrapper .card .info h1 {
   margin: 0;
-  font-size: 25px;
+  color: blueviolet;
 }
 .wrapper .card .info p {
   letter-spacing: 1px;
