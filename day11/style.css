@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #a0c28b;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.key {
+  border: 1px solid #999;
+  background-color: #eee;
+  box-shadow: 1px 1px 3px rgba(1, 2, 5, 0.5);
+  display: inline-flex;
+  align-items: center;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 30px;
+  flex-direction: column;
+  margin: 10px; 
+  min-width: 150px;
+  position: relative;
+  border-radius: 5px;
+}
+
+.key small{
+  position: absolute;
+  top: -24px;
+  left: 0 ;
+  align-items: center;
+  width: 100%; 
+  color: #555;
+  font-size: 18px;
+}
