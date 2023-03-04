@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #686de0;
+  background-color: #4981b4;
 }
 
 h1 {
@@ -18,7 +18,7 @@ h1 {
 
 .faq {
   background-color: transparent;
-  border: 1px solid #9fa4a8;
+  border: 2px solid #9fa4a8;
   border-radius: 10px;
   margin: 20px 0;
   padding: 30px;
