@@ -25,3 +25,13 @@ https://50projectsin50days.vercel.app/
 | 18  | Background Slider                       | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day18)              |
 | 19  | Theme Clock                             | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day19)              |
 | 20  | Button Ripple Effect                    | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day20)              |
+| 21  | Drag N Drop                             | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day21)              |
+| 22  | Drawing App                             | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day22)              |
+| 23  | Kinetic Loader                          | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day23)              |
+| 24  | Content Placeholder                     | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day24)              |
+| 25  | Sticky Navbar                           | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day25)              |
+| 26  | Double Vertical Slider                  | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day26)              |
+| 27  | Toast Notification                      | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day27)              |
+| 28  | Github Profiles                         | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day28)              |
+| 29  | Double Click Heart                      | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day29)              |
+| 30  | Auto Text Effect                        | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day30)              |
