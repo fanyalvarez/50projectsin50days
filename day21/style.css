@@ -3,46 +3,57 @@
 }
 
 body {
-  background-color: #000;
+  background-color: rgb(66, 117, 54);
   display: flex;
-  flex-direction: column;
   align-items: center;
-  justify-content: center;
+  flex-direction: column;
   height: 100vh;
   overflow: hidden;
   margin: 0;
 }
 
-button {
-  background-color: purple;
-  color: #fff;
-  border: 1px purple solid;
-  font-size: 14px;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  padding: 20px 30px;
+.text {
+  margin-top: 100px;
+font-size: 40px;
+}
+
+.container {
+  display: flex;
   overflow: hidden;
-  margin: 10px 0;
-  position: relative;
+  margin-top: 250px;
 }
 
-button:focus {
-  outline: none;
+.empty {
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+  border: solid 3px black;
+  background-image: url('https://homebnc.com/homeimg/2022/03/07-yellow-flowers-carnation-homebnc.jpg');
+  background-position: center;
+  background-size: cover;
 }
 
-button .circle {
-  position: absolute;
-  background-color: #fff;
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  transform: translate(-50%, -50%) scale(0);
-  animation: scale 0.5s ease-out;
+.fill {
+  background-image: url('https://rnz-ressh.cloudinary.com/image/upload/s--Mim-G3RJ--/ar_16:10,c_fill,f_auto,g_auto,q_auto,w_1050/4LZZ4IM_image_crop_135147');
+  background-position: center;
+  background-size: cover;
+  height: 145px;
+  width: 145px;
+  cursor: pointer;
 }
 
-@keyframes scale {
-  to {
-    transform: translate(-50%, -50%) scale(3);
-    opacity: 0;
+.hold {
+  border: solid 5px #ccc;
+}
+
+.hovered {
+  background-color: #333333;
+  border-color: white;
+  border-style: dashed;
+}
+
+@media (max-width: 800px) {
+  body {
+    flex-direction: column;
   }
 }
