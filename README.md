@@ -35,3 +35,10 @@ https://50projectsin50days.vercel.app/
 | 28  | Github Profiles                         | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day28)              |
 | 29  | Double Click Heart                      | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day29)              |
 | 30  | Auto Text Effect                        | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day30)              |
+| 31  | Password Generator                      | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day31)              |
+| 32  | Good Cheap Fast                         | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day32)              |
+| 33  | Notes App                               | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day33)              |
+| 34  | Animated Countdown                      | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day34)              |
+| 35  | Image Carousel                          | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day35)              |
+| 36  | Hoverboard                              | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day36)              |
+| 37  | Pokedex                                 | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day37)              |
