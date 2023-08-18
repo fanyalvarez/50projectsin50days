@@ -42,3 +42,6 @@ https://50projectsin50days.vercel.app/
 | 35  | Image Carousel                          | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day35)              |
 | 36  | Hoverboard                              | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day36)              |
 | 37  | Pokedex                                 | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day37)              |
+| 38  | Mobile Tab Navigation                   | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day38)              |
+| 39  | Password Strength Background            | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day39)              |
+| 40  | 3d Background Boxes                     | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day40)              |
