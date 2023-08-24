@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400&display=swap');
+
 * {
   box-sizing: border-box;
 }
@@ -10,6 +12,7 @@ body {
   align-items: center;
   justify-content: center;
   margin: 0;
+  font-family: 'Lato', sans-serif;
 }
 
 h1 {
@@ -44,8 +47,6 @@ h1 {
 
 .pokemon .img-container img {
   max-width: 90%;
-  margin-top: 20px;
-
 }
 
 .pokemon .info {
@@ -56,10 +57,16 @@ h1 {
   background-color: rgba(0, 0, 0, 0.1);
   padding: 5px 10px;
   border-radius: 10px;
-  font-size: 0.8em;
+  font-size: 1em;
+  font-weight: 900;
 }
 
 .pokemon .info .name {
   margin: 15px 0 7px;
   letter-spacing: 1px;
+}
+
+.pokemon .info .type{
+  font-weight: 900;
+  font-size: 0.8em;
 }
