@@ -45,3 +45,13 @@ https://50projectsin50days.vercel.app/
 | 38  | Mobile Tab Navigation                   | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day38)              |
 | 39  | Password Strength Background            | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day39)              |
 | 40  | 3d Background Boxes                     | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day40)              |
+| 41  | Verify Account Ui                       | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day41)              |
+| 42  | Live User Filter                        | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day42)              |
+| 43  | Feedback Ui Design                      | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day43)              |
+| 44  | Custom Range Slider                     | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day44)              |
+| 45  | Netflix Mobile Navigation               | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day45)              |
+| 46  | Quiz App                                | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day46)              |
+| 47  | Testimonial Box Switcher                | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day47)              |
+| 48  | Random Image Feed                       | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day48)              |
+| 49  | Todo List                               | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day49)              |
+| 50  | 	Insect Catch Game                   | [Live Demo](https://fanyalvarez.github.io/50projectsin50days/day50)              |
